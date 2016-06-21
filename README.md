@@ -16,3 +16,4 @@ feature-5
 feature-5 +1
 
 feature-6
+feature-6+1
