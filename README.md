@@ -16,7 +16,6 @@ feature-5
 feature-5 +1
 
 
-<<<<<<< HEAD
 feature-6
 feature-6+1
 feature-6+2
@@ -32,3 +31,6 @@ feature-7+2
 
 feature-8
 
+
+feature-9
+feature-9+1
